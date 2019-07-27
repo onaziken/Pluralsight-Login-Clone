@@ -1,1 +1,1 @@
-# Pluralsight-Login-Clone
+# Pluralsight Login Clone
